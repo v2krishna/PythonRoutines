@@ -8,4 +8,3 @@ print('x ** y = {}'.format(x ** y)) #exponential
 print('x/y = {}'.format(x/y))   #float division
 print('x//y = {}'.format(x//y))  #integer
 print('x % y = {}'.format(x % y))  #modulus
-
