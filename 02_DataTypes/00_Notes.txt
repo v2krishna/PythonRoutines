@@ -1,0 +1,24 @@
+5 standard data types
+========================
+    1) numbers
+    2) string
+    3) List
+    4) Tuple
+    5) Dictionary
+
+
+Python type conversions
+========================
+    int()
+    float()
+    str()
+    long()
+
+Mathematical Functions
+======================
+    ceil(x)
+    fabs(x) -- returns abs of x
+    factorial(x)
+    floor(x)
+    exp(x) --> returns of e**x
+    sqrt(x)
