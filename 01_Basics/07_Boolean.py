@@ -1,3 +1,8 @@
+"""
+    == compares the values of the both operands
+    is --- checks refers to the same object or not
+"""
+
 x = y = 34678900010
 print(id(x))
 print(id(y))
