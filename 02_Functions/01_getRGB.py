@@ -18,6 +18,7 @@ def getIntFromRgb(in_rgb):
 
 
 v_i1 = 20000
+print("Input value is ", v_i1)
 v_color = getRGBfromInt(v_i1)
 print(v_color)
 
