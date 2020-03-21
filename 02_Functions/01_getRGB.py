@@ -1,3 +1,6 @@
+"""Using the bit wise operators a sample program
+"""
+
 def getRGBfromInt(in_rgbinterger):
     blue = in_rgbinterger & 255
     green = (in_rgbinterger >> 8) & 255
