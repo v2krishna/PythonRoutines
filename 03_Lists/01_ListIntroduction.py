@@ -44,3 +44,6 @@ print(l5[0:4])
 print(l3)
 print(l5)
 print(l3 not in l5)
+
+for element in l5:
+    print(element, end="")
