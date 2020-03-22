@@ -16,4 +16,12 @@ print(str1.startswith("Python"))
 print(str1.count("o"))
 print(str1.find("Python"))
 print(str1.rfind("o"))
+seq = "_"
+str2 = ("this", "is", "a", "message")
+print(seq.join(str2))
+
+str3 = "##### welcome to python######"
+print(str3.strip("#"))
+str4 = "    welcome to python     "
+print(str4.strip(" "))
 
