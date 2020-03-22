@@ -38,3 +38,21 @@ print("welcome" > str1)
 
 str2 = str("test the string is created or not")
 print(str2)
+
+str3 = "abcddesf"
+str4 = " 123232343354jsngnd "
+str5 = " "
+str6 = "Welcome to python World"
+
+print("string 3 is alpha numeric {}".format(str3.isalnum()))
+print("string 3 is lower or not {}".format(str3.islower()))
+print("string 3 is  or not {}".format(str3.islower()))
+print("string 4 is having space {}".format(str4.isspace()))
+
+print("string 5 is having space {}".format(str5.isspace()))
+
+print(max(str4))
+print(len(str4))
+print(min(str4))
+
+print(str6.replace(" ", "_"))
