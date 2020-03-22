@@ -39,3 +39,8 @@ print(l2 * 3)
 
 # slicing the list elements
 print(l5[0:4])
+
+# in and not in operator
+print(l3)
+print(l5)
+print(l3 not in l5)
