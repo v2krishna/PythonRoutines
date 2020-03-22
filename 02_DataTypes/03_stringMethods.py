@@ -18,3 +18,4 @@ print("Lcase of the string 2 ", str2.lower())
 str1, str2 = str2, str1
 print(str1)
 print(str2)
+print(str1.swapcase())
