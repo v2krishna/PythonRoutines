@@ -27,11 +27,11 @@ print("Here's our Menu")
 print()
 
 # https://stackoverflow.com/questions/25777037/how-can-i-left-justify-text-in-a-pandas-dataframe-column-in-an-ipython-notebook
-print(df.to_string(justify = "left",
-                   header = False,
+print(df.to_string(justify="left",
+                   header=False,
                    formatters={
                        "Pizzas": "{{:<{}s}}".format(df['Pizzas'].str.len().max()).format,
-                       "Prices":"    ${:.2f}".format
+                       "Prices": "    ${:.2f}".format
                               }
                    )
       )
