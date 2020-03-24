@@ -1,0 +1,37 @@
+
+P
+ 01_Basics/05_logicalOperators.py,d\4\d427f289a70f11a8007e3fa313329da889778946
+S
+#01_Basics/03_AssignmentOperators.py,8\d\8d8e91a28acd00f17cb339635b030eb3f0164827
+T
+$01_Basics/02_ArithmeticaOperators.py,0\e\0ea7b51f5f70e57f5e2dc156b0aabd60c4c039be
+S
+#01_Basics/01_newlinecontinuation.py,0\6\06120ac288a65841de6406722a7e215026eecb20
+T
+$01_Basics/04_ComparisionOperators.py,c\8\c8e92547b07841a75f791b758b839d340eea3435
+R
+"01_Basics/08_membersipOperators.py,1\4\143732ca3fc4acc67da1335123f6ea22dffccaef
+G
+01_Basics/07_Boolean.py,5\d\5da53d2a84fed7bcf737d7726eb87faba4376e30
+P
+ 01_Basics/06_BitwiseOperators.py,d\3\d3cff272692605a25a15aa000e3c2bbc192ee0a1
+G
+_Functions/01_getRGB.py,4\b\4b5e5991111c8f486f91591b7b0c5bd0e00734da
+^
+..idea/inspectionProfiles/profiles_settings.xml,1\e\1e9075f5bf079c01ef2c910709e91a497d262080
+Z
+*02_DataTypesNumbersandStrings/00_Notes.txt,a\4\a49b41f22ab630aad71e48620c2c59575bdf23ac
+h
+802_DataTypesNumbersandStrings/01_mathematicalExamples.py,7\c\7cf00b559a5bcf8c33dec04ac7502156489bf0fe
+f
+602_DataTypesNumbersandStrings/02_stringIntroduction.py,f\8\f870d83c896f888003d8c5926f09faa593574042
+a
+102_DataTypesNumbersandStrings/03_stringMethods.py,a\5\a501c180f3d6b1934fe052c704b1bf638a602f60
+b
+202_DataTypesNumbersandStrings/04_stringMethods2.py,1\a\1a7737041299ff71174bed99dd7a9c522ddf522e
+V
+&SampleProjects/01.pizzacalculations.py,4\9\4965e55abddb700a533c42c0cd8b7651c72a62fa
+O
+03_Lists/01_ListIntroduction.py,9\0\9070f866896d2654e61a5b8360ae6516e69e0835
+J
+03_Lists/02_ListMethods.py,b\0\b0d312a18c5c0e4e4277cbc65e92121fc891e8aa
