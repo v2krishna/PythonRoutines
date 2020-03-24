@@ -8,6 +8,25 @@ reverse()
 sort()
 pop(i)
 """
-l1 = [1,2,23,34,5,6,6,7,8,9,10]
-l1 = l1.append(250)
-print(l1)
+list_1 = [1, 2, 23, 34, 5, 6, 6, 7, 8, 9, 10]
+list_1.append(250)
+print(list_1)
+print(list_1.count(6))
+list_2 = [30,40,50]
+list_1.extend(list_2)
+print(list_1)
+list_1.insert(2,1000)
+print(list_1)
+list_1.remove(6)
+print(list_1)
+list_1.reverse()
+print(list_1)
+list_1.sort()
+print(list_1)
+list_1.sort(reverse=False)
+print(list_1)
+list_1.sort(reverse=True)
+print(list_1)
+list_1.pop(1)
+print(list_1)
+
