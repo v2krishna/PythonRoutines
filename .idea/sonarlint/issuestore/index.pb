@@ -33,5 +33,3 @@ V
 &SampleProjects/01.pizzacalculations.py,4\9\4965e55abddb700a533c42c0cd8b7651c72a62fa
 O
 03_Lists/01_ListIntroduction.py,9\0\9070f866896d2654e61a5b8360ae6516e69e0835
-J
-03_Lists/02_ListMethods.py,b\0\b0d312a18c5c0e4e4277cbc65e92121fc891e8aa
