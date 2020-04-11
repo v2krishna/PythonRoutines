@@ -33,3 +33,13 @@ V
 &SampleProjects/01.pizzacalculations.py,4\9\4965e55abddb700a533c42c0cd8b7651c72a62fa
 O
 03_Lists/01_ListIntroduction.py,9\0\9070f866896d2654e61a5b8360ae6516e69e0835
+Q
+!03_Lists/02_ListMethods_append.py,a\0\a0b587047996172826920231292b7d737531bb1c
+L
+03_Lists/03_ListMethods_2.py,a\3\a3641825c414e9a4610eac787632aa4f8919a4ea
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+F
+04_Tuples/01_Tuples.py,a\d\adc65047bbe8d867f1f5c775ddce9d9a9ae44133
+P
+ 03_Lists/04_listComprehension.py,5\a\5a1fba2624c0937f3d89ab1a2b0b65230d02eb93
