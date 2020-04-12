@@ -7,8 +7,8 @@ if m < n:
 else:
     m, n = n, m
 print("Entered numbers are {0} and {1}".format(m, n))
-for i in range (m,n):
-    if i % 2 !=0 :
+for i in range(m, n):
+    if i % 2 !=0:
         print(i)
 
 print("End of the program")
