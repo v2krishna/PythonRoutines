@@ -16,4 +16,4 @@ sum = 0.0
 for arg in args.nums:
     print(arg)
     sum += arg
-print("sum:=",sum)
+print("sum:=", sum)
